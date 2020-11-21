@@ -10,3 +10,8 @@ PMS(Posterior Mean Screening) is a variable screening method constructed from th
 ``` r
 install.packages("PMS")
 ```
+Then, load the package with
+
+``` r
+library(PMS)
+```
