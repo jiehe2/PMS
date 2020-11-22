@@ -15,3 +15,18 @@ Then, load the package with
 ``` r
 library(PMS)
 ```
+
+## Install from Github
+
+If R package `devtools` has not been installed, we should install it firstly:
+
+```r
+install.packages("devtools")
+```
+And then, install package `PMS` from Github with 
+
+```r
+devtools::install_github("https://github.com/jiehe2/PMS.git")
+libaray(PMS)
+```
+## An example
