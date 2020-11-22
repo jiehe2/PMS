@@ -54,6 +54,7 @@ PMS=pms_screening(x = dat$x,y = dat$y,family = "gaussian",method = "selection",L
 ```
 ## Reference
 
+Jie He and Jian Kang (2020+), Prior Knowledge Guided Ultra-high Dimensional Variable Screening with Application to Neuroimaging Data. 
 
 
 
